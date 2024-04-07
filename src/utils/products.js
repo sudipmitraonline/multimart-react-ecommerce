@@ -36,53 +36,43 @@ import watchSlide from "../Images/watch-07.png";
 export const SliderData = [
   {
       id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      title: "Flat 40% Off For Your First Shopping",
+      desc: "Dont Worry!You will get upto 30% discount second order onwards!",
       cover: sofaSlide,
   },
   {
       id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      title: "24*7 Customer Support",
+      desc: "Contact Us - AnyTime AnyWhere",
       cover: phone08,
   },
   {
       id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      title: "Money Back Gurantee",
+      desc: "If you doesn't like the product, We accept the return!",
       cover: wireless01,
   },
-  {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
-  },
+
 ];
 
 export const serviceData = [
   {
     icon: <ion-icon name="car"></ion-icon>,
     title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Shipping is free at your doorstep, anywhere in India.",
     bg: "#fdefe6",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Payment is safe thorough our RBI approved payment gateway.",
     bg: "#ceebe9",
   },
-  {
-    icon: <ion-icon name="shield-half-outline"></ion-icon>,
-    title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#e2f2b2",
-  },
+
   {
     icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    title: "Product Replacement Guarantee",
+    subtitle: "If you get defective product, we will replace.",
     bg: "#d6e5fb",
   },
 ];
@@ -93,16 +83,16 @@ export const discoutProducts = [
     productName: "Stone and Beam Westview ",
     imgUrl: productImg01,
     category: "sofa",
-    price: 193,
+    price: 192,
     discount:30,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Creative Sofa.... Description",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Folding Sofa....... Description are...",
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice and durable.",
       },
     ],
     avgRating: 4.5,
@@ -115,17 +105,17 @@ export const discoutProducts = [
     price: 253,
     discount:20,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Sofa cum Bed",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Sofa cum Bed - Rivet Bigelow Modern",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Interesting Product",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "very durable hand comfortable.",
       },
     ],
     avgRating: 4.7,
@@ -138,17 +128,17 @@ export const discoutProducts = [
     price: 89,
     discount:15,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "love",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -161,17 +151,17 @@ export const discoutProducts = [
     price: 112,
     discount:35,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -184,17 +174,17 @@ export const discoutProducts = [
     price: 599,
     discount:10,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -207,17 +197,17 @@ export const discoutProducts = [
     price: 799,
     discount:5,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -233,13 +223,13 @@ export const products = [
     category: "sofa",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.5,
@@ -252,17 +242,17 @@ export const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -275,39 +265,39 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
   },
   {
-    id: "26",
+    id: "2",
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "i love uConsequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -319,17 +309,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -342,17 +332,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -365,17 +355,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -387,17 +377,17 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -410,17 +400,17 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -433,17 +423,17 @@ export const products = [
     category: "chair",
     price: 89,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -456,17 +446,17 @@ export const products = [
     category: "chair",
     price: 112,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -479,17 +469,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -501,17 +491,17 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.7,
@@ -523,17 +513,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -546,17 +536,17 @@ export const products = [
     category: "mobile",
     price: 599,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -569,17 +559,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        rating: 2,
+        text: "kjgkgggisicing elit.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -592,17 +582,17 @@ export const products = [
     category: "mobile",
     price: 899,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -615,17 +605,17 @@ export const products = [
     category: "mobile",
     price: 699,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -638,17 +628,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -661,17 +651,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -684,17 +674,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -707,17 +697,17 @@ export const products = [
     category: "watch",
     price: 399,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -730,17 +720,17 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -753,17 +743,17 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -775,17 +765,17 @@ export const products = [
     category: "wireless",
     price: 169,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,
@@ -797,17 +787,17 @@ export const products = [
     category: "wireless",
     price: 139,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Product Short Description Here",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Need to configure product description, its auto generated",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Very Nice Product, Durable! I love it.",
       },
     ],
     avgRating: 4.8,

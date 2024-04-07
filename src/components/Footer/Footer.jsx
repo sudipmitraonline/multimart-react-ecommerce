@@ -10,9 +10,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <div className="logo">
                   <ion-icon name="bag"></ion-icon>
-                  <h1>Multimart</h1>
+                  <h1>Persistent Ecommerce</h1>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+              <p>A Basic Ecommerce Website Developed with GenAI</p>
             </Col>
             <Col md={3} sm={5} className='box'>
               <h2>About Us</h2>
@@ -37,9 +37,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+                <li>Godrej Genesis, Saltlake City, Kolkata </li>
+                <li>Email: sudipmitraonline@gmail.com</li>
+                <li>Phone: +91 1123 456 780</li>
               </ul>
             </Col>
           </Row>
